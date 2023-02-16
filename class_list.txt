@@ -1,0 +1,9 @@
+name
+gender
+dob
+profile-image
+logo-stamp
+id-number
+address
+signature
+
