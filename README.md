@@ -1,5 +1,6 @@
 # Yolo Annotation Tool 
 ## Steps to use
+- Install the requirements
 - Put a class of image in the images folder (images directly), data is given in Id-Dataset
 - Run the run.py python file
 - Open terminal in half windows and gui in other
