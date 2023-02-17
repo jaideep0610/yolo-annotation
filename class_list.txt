@@ -1,4 +1,3 @@
 profile-image
 logo-stamp
 signature
-
